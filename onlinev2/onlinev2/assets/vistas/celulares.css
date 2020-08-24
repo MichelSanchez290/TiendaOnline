@@ -1,0 +1,87 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  color: #000;
+ text-align-last:auto;
+ background: #FADBD8;
+}
+ 
+
+.header-links li i {
+  color: #000000;
+  margin-right: 20px;
+}
+/*-- barrita delgdita amarilla --*/
+#navigation {
+  border-top: 3px solid #F5B7B1;
+  }
+  /*-- barrita delgdita amarilla ababjo --*/
+  #newsletter.section {
+  border-top: 4px solid #F5B7B1;
+  border-bottom: 5px solid #F5B7B1;
+  margin-top: 30px;
+}
+
+
+.header-links li a:hover {
+  color: #D10024!important;
+}
+/*-- encabezado amarillo --*/
+#top-header {
+ background-color: #F5B7B1;
+}
+#header {
+   background-color: #000;
+}
+
+
+.header-links li a {
+  color: #000000;
+  font-family: sans-serif;
+}
+/*-- seleccionar texto color azul --*/
+
+.main-nav>li>a:hover, .main-nav>li>a:focus, .main-nav>li.active>a {
+  color: #F39C12;
+  
+}
+.main-nav>li>a:after {
+    
+    background-color:#F39C12;
+   
+}
+/*--boton de buscador --*/
+.header-search form .search-btn {
+ 
+  background: #5DADE2;
+  color: #000000;
+ 
+}
+  
+/*--color de notificacion --*/
+.header-ctn>div>a>.qty {
+  
+  background-color:#5DADE2;
+}
+/*--color de boton siguiente --*/
+.slick-prev, .slick-next {
+  
+  border: 1px solid #6C3483;
+  background-color: #5DADE2;
+  
+}
+/*--color de pie negro --*/
+#footer {
+  background: #000000;
+  color: #B9BABC;
+}
+
+
+
+/*--color de pie amarillo --*/
+#bottom-footer {
+  background: #5DADE2;
+}
+.product .product-body {
+  background:#B2BABB;
+}

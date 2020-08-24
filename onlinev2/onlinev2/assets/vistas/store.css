@@ -1,0 +1,93 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  color: #000;
+ text-align-last:auto;
+ background: #FAE5D3;
+}
+ 
+
+.header-links li i {
+  color: #000000;
+  margin-right: 20px;
+}
+#navigation {
+  /*-- barrita delgdita amarilla --*/
+  border-top: 3px solid #000 ;
+  }
+  /*-- barrita delgdita amarilla ababjo --*/
+  #newsletter.section {
+  border-top: 4px solid #000 ;
+  border-bottom: 5px solid #000 ;
+  margin-top: 30px;
+}
+
+
+.header-links li a:hover {
+  color: #D10024!important;
+}
+/*-- encabezado rojo --*/
+#top-header {
+ background-color: #943126  ;
+}
+#header {
+   background-color: #000000;
+}
+
+.header-links li a {
+  color: #000000;
+  font-family: sans-serif;
+}
+/*-- seleccionar texto color azul --*/
+
+.main-nav>li>a:hover, .main-nav>li>a:focus, .main-nav>li.active>a {
+  color: #D35400 ;
+  
+}
+.main-nav>li>a:after {
+    
+    background-color: #D35400;
+   
+}
+/*--boton de buscador --*/
+.header-search form .search-btn {
+ 
+  background: #943126;
+  color: #000000;
+ 
+}
+/*--boton de buscador bajo */
+.newsletter form .newsletter-btn {
+ background: #000000;
+  
+
+}
+/*--color de notificacion --*/
+.header-ctn>div>a>.qty {
+  
+  background-color:#CB4335;
+}
+/*--color de boton siguiente --*/
+.slick-prev, .slick-next {
+  
+  border: 1px solid #6C3483;
+  background-color: #808B96 ;
+  
+}
+/*--color de pie negro --*/
+#footer {
+  background: #000000;
+  color: #B9BABC;
+}
+
+/*--color de pie amarillo --*/
+#bottom-footer {
+  background: #CB4335;
+}
+#breadcrumb {
+background: #CB4335;
+}
+.product .product-body {
+ 
+  background-color: #D5DBDB ;
+}
